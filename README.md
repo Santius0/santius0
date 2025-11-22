@@ -1,4 +1,4 @@
-# 🧪 [Your Name]
+# 🧪 Sergio Mathurin
 
 Computer scientist. Data scientist.  
 CTO at **[armsai.net](https://armsai.net)** where we build **AI-powered risk assessment** systems and try very hard not to ship garbage.
